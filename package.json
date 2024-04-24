@@ -1,0 +1,17 @@
+{
+  "name": "@example/vanilla",
+  "version": "0.0.1",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1"
+  },
+  "devDependencies": {
+    "vituum": "^1"
+  }
+}
